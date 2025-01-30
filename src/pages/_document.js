@@ -16,7 +16,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href={setting?.favicon || "/favicon.png"} />
+          <link rel="icon" href={setting?.favicon || "/logo.png"} />
           <meta
             property="og:title"
             content={

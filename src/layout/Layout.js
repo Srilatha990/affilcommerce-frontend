@@ -23,7 +23,7 @@ const Layout = ({ title, description, children }) => {
               : "AffilCommerce - React Grocery & Organic Food Store e-commerce Template"}
           </title>
           {description && <meta name="description" content={description} />}
-          <link ref="icon" href="/favicon.png" />
+          <link ref="icon" href="/logo.png" />
         </Head>
         <NavBarTop />
         <Navbar />

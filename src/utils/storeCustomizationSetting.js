@@ -862,7 +862,7 @@ const storeCustomization = {
     },
     seo: {
       favicon:
-        "https://res.cloudinary.com/ahossain/image/upload/v1700903173/undefined/favicon.png",
+        "https://res.cloudinary.com/ahossain/image/upload/v1700903173/undefined/logo.png",
       meta_description:
         "React Grocery & Organic Food Store e-commerce Template",
       meta_img:
