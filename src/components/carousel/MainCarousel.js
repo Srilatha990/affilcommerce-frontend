@@ -106,14 +106,14 @@ const MainCarousel = () => {
       <style>{`
         .swiper-button-next,
         .swiper-button-prev {
-          color: #0b5052;
+          color: #1A4B8B;
         }
        .swiper-button-next:after, .swiper-button-prev:after{
          font-size:24px;
        }
         .swiper-button-next:hover,
         .swiper-button-prev:hover {
-          color: #085042;
+          color: #1A4B8B;
         }
       `}</style>
       <Swiper
